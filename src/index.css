@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding-top: 100px;
+  padding-left: 400px;
+  background-image: url("book.jpg");
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+  font-size: x-large;
+}
+
+#root {
+  margin: 30px auto;
+  width: 530px;
+  border: 5px solid black;
+}
+.h1 {
+  text-align: center;
+}
+
+.border-blue {
+  background-color: white;
+  border: 3px solid black;
+  width: 500px;
+  margin: 10px;
+}
+
+.border-pink {
+  background-color: white;
+  border: 3px solid black;
+  width: 500px;
+  margin: 10px;
+}
